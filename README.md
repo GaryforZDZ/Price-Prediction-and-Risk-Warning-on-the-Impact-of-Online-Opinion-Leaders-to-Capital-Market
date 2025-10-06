@@ -32,6 +32,4 @@ Features
 
 📈 可复现实验：训练/验证/回测一体化脚本  
 
-<img width="395" height="521" alt="04c931fd-9076-4f50-a784-a9a0f1fdcd12" src="https://github.com/user-attachments/assets/1e79761c-05ab-46b3-9d28-55949d81eccb" />
-
 <img width="395" height="521" alt="image" src="https://github.com/user-attachments/assets/fc261c44-9c30-414d-96c3-0b67903c8498" />
